@@ -11,7 +11,7 @@ KDE Plasma · Debian 13 · PCs Intel e AMD de 64 bits
 <a href="https://img.shields.io/badge/Arquitetura-amd64-77747B?style=flat-square"><img alt="amd64" src="https://img.shields.io/badge/Arquitetura-amd64-77747B?style=flat-square"></a>
 <a href="https://github.com/maisumacontavic-bit/star5/releases/latest"><img alt="Versão mais recente" src="https://img.shields.io/github/v/release/maisumacontavic-bit/star5?include_prereleases&style=flat-square&color=D9A4B2"></a>
 
-**[Baixar a ISO](https://github.com/maisumacontavic-bit/star5/releases/latest)**
+**[Baixar a ISO](https://drive.google.com/file/d/14OO_m8sGziel76AbQFwAXyJMjHINmbQL/view?usp=sharing)**
 
 </div>
 
@@ -23,7 +23,7 @@ Rosa empoeirado, cinza-carvão e verde-musgo encontram o visual Y2K e os detalhe
 
 ## A imagem
 
-Nas **Releases**, baixe `Star-Five-amd64.hybrid.iso`. A ISO é o único arquivo distribuído por este repositório.
+Baixe `Star-Five-amd64.hybrid.iso` pelo [Google Drive](https://drive.google.com/file/d/14OO_m8sGziel76AbQFwAXyJMjHINmbQL/view?usp=sharing). A ISO é o único arquivo distribuído publicamente pelo projeto; o código-fonte permanece privado.
 
 | | |
 |---|---|
